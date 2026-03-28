@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jarvis AI Assistant
 
 A full-stack personal AI assistant web application that provides voice and text-based interaction with system controls and Google Gemini AI integration.
@@ -140,3 +141,6 @@ Make sure to allow microphone access when prompted. The application needs:
 ## License
 
 MIT License - feel free to use and modify for your own projects!
+=======
+# A-Voice-Activated-AI-Assistant-for-Real-Time-Desktop-Interaction-and-Contextual-Intelligence
+>>>>>>> ee7ed438b1c34aaaf1e11be3e914d8864e4c0db1
